@@ -1,0 +1,6 @@
+@Class12a_HostAddress = http://localhost:5228
+
+GET {{Class12a_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
